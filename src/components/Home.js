@@ -2,7 +2,7 @@ import React from 'react';
 
 const Menu = () => {
   return (
-    <div>
+    <div className="center-contents">
       <h1>Home</h1>
     </div>
   );
